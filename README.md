@@ -207,7 +207,6 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
   </a>
 
 
-
 <a href="https://www.credly.com/badges/602cea31-cbfd-4b78-bf45-fd2316454623/public_url">
     <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/92d90000-9c96-4dbd-a37d-8c47bf338bca/blob"
     alt="Digital Safety and Security Awareness" 
@@ -364,7 +363,7 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 
 <br/>
 
-*🎩 "Um passo de cada vez." 🫐*
+*"Don't you think your body deserves a say, too!?"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E8&height=120&section=footer" width="100%" alt="" />
 
