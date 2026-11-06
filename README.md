@@ -1,19 +1,7 @@
-<!--
-🎩 README DE PERFIL — Abby Mirtilo
-Paleta: rosa bebê #FFB6C1 · menta #A8E6CF · mirtilo #8E7CC3 · roxo escuro #4B2E5E · creme #FFF5EE
-
-COMO USAR
-- Os blocos marcados com 🖼️ são espaços de imagem: tire o comentário () e cole o link.
-  Dica: arraste a imagem para uma Issue do GitHub (sem enviar) e copie o link "user-attachments" gerado.
-- Os blocos marcados com ✏️ são textos para você completar ou ajustar.
-- Comentários HTML como este não aparecem no GitHub.
--->
-
 <div align="center">
 
-<!-- 🖼️ BANNER (sugestão: 1600x400 px, fundo rosa bebê com o Ralsei e o texto "Abby Mirtilo")
-<img src="COLE_O_LINK_DO_BANNER_AQUI" width="100%" alt="Banner da Abby Mirtilo com o Ralsei de Deltarune" />
--->
+<img src="https://64.media.tumblr.com/e06279bf7bafdbdcdee04acf1721b076/33af499bc6ceea35-ca/s1280x1920/320dd6abccee2faf3339bab9036987c7f44644da.png" width="100%" alt="Banner da Abby Mirtilo com o Ralsei de Deltarune" />
+
 
 # 🎀 Oi, eu sou a Abby Mirtilo 🫐
 
@@ -352,8 +340,8 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 ## 🎨 Créditos
 
 <!-- ✏️ Preencha com os créditos das artes que você usar. -->
-- Banner: [NOME_DO_ARTISTA](LINK_DO_ARTISTA)
-- Ilustrações do Ralsei: [NOME_DO_ARTISTA](LINK_DO_ARTISTA)
+- Banner: [minart-was-taken](https://minart-was-taken.tumblr.com/)
+- Ilustrações do Ralsei: [mira](https://x.com/ralseiing) e [Golden](https://www.rolimons.com/ugc-group-store/34488507)
 
 <sub>Ralsei e Deltarune pertencem a Toby Fox. Este perfil é um tributo de fã, sem fins lucrativos.</sub>
 
