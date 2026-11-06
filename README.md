@@ -38,7 +38,6 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 - 🌐 **Redes:** currículo CCNAv7 completo (Cisco Networking Academy)
 - 🗣️ **Idiomas:** inglês fluente para documentação técnica · espanhol básico
 
-<!-- ✏️ Se quiser, conte em uma frase onde você e o Ralsei se parecem. Ex.: "Ele começou sem saber o que era, e eu estou construindo a minha trilha passo a passo." -->
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -67,13 +66,10 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 ✨ nov 2026 · 6º período e em busca da primeira vaga na área. Você está aqui!
 ```
 
-<!-- ✏️ Ajuste datas e eventos à vontade. -->
-
 ---
 
 ## 🎒 Skills
 
-<!-- Badges geradas com shields.io + ícones do Simple Icons. Se algum ícone não carregar, a badge continua aparecendo só com o texto. -->
 
 **🛡️ Segurança**
 
@@ -122,7 +118,6 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 ![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logoColor=white&labelColor=4B2E5E)
 ![C++](https://img.shields.io/badge/C%2B%2B-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=4B2E5E)
 
-<!-- ✏️ Níveis por skill ficaram para depois, como combinado. -->
 
 ---
 
@@ -143,7 +138,6 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 
 ### Badges verificadas
 
-<!-- Cada badge leva para a página pública no Credly. 🖼️ Se preferir as imagens oficiais, troque por <img src="LINK_DA_IMAGEM" width="120" /> dentro de cada link. -->
 
 <div align="center">
 
@@ -339,7 +333,6 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 
 ## 🎨 Créditos
 
-<!-- ✏️ Preencha com os créditos das artes que você usar. -->
 - Banner: [minart-was-taken](https://minart-was-taken.tumblr.com/)
 - Ilustrações do Ralsei: [mira](https://x.com/ralseiing) e [Golden](https://www.rolimons.com/ugc-group-store/34488507)
 
