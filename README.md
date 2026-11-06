@@ -339,11 +339,9 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 </td>
 <td align="center" valign="middle" width="30%">
 
-<!-- 🖼️ IMAGEM EXTRA DO RALSEI (opcional)
-<img src="COLE_O_LINK_AQUI" width="200" alt="Ralsei" />
+<img src="https://pbs.twimg.com/media/HWJjBdZXAAA7UgE?format=jpg&name=small" width="200" alt="Ralsei" />
 <br/>
-<sub>🎨 Arte por <a href="LINK_DO_ARTISTA">NOME_DO_ARTISTA</a></sub>
--->
+<sub>🎨 Arte por <a href="https://x.com/ralseiing">mira</a></sub>
 
 </td>
 </tr>
