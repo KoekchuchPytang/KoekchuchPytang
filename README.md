@@ -15,7 +15,7 @@ COMO USAR
 <img src="COLE_O_LINK_DO_BANNER_AQUI" width="100%" alt="Banner da Abby Mirtilo com o Ralsei de Deltarune" />
 -->
 
-# 🎩 Oi, eu sou a Abby Mirtilo 🫐
+# 🎀 Oi, eu sou a Abby Mirtilo 🫐
 
 ### *estudante de ADS • cibersegurança & CloudOps • movida a café e à gentileza do Ralsei* 💗
 
@@ -49,18 +49,15 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 - ☁️ **Foco em nuvem:** containers, Kubernetes, CI/CD, GitOps e observabilidade
 - 🌐 **Redes:** currículo CCNAv7 completo (Cisco Networking Academy)
 - 🗣️ **Idiomas:** inglês fluente para documentação técnica · espanhol básico
-- 🎩 **Mascote:** o Ralsei, de Deltarune. Acho a gente parecida em história e personalidade 💗
 
 <!-- ✏️ Se quiser, conte em uma frase onde você e o Ralsei se parecem. Ex.: "Ele começou sem saber o que era, e eu estou construindo a minha trilha passo a passo." -->
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<!-- 🖼️ ILUSTRAÇÃO DO RALSEI (sugestão: quadrada, ~500x500 px)
-<img src="COLE_O_LINK_DA_ILUSTRACAO_AQUI" width="260" alt="Ilustração do Ralsei" />
+<img src="https://tr.rbxcdn.com/180DAY-3e3cb7d60b18ba65bb921ca5016b48a9/420/420/BackAccessory/Webp/noFilter" width="260" alt="Ilustração do Ralsei" />
 <br/>
-<sub>🎨 Arte por <a href="LINK_DO_ARTISTA">NOME_DO_ARTISTA</a></sub>
--->
+<sub>🎨 Arte por <a href="https://www.rolimons.com/ugc-group-store/34488507">Golden</a></sub>
 
 </td>
 </tr>
@@ -264,9 +261,8 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 ## 🔭 Estudando agora
 
 - 🧨 **Atomic Red Team:** simular técnicas de ataque e validar as detecções do meu SOC Lab
-- 🔎 **Threat intelligence:** integrar o VirusTotal ao Wazuh
-- 🎯 **Prática de Blue Team:** CyberDefenders, LetsDefend e TryHackMe
-
+- 🤖 **AWS AI Practitioner:** Curso de AWS AI Practitioner ofertado pela Escola da Nuvem
+- 👾 **Maratona de CiberEducação Cisco Brasil:** Iniciativa líder de formação em cibersegurança
 ---
 
 ## 💌 Contato
@@ -281,7 +277,7 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 </p>
 
 <p>
-  Vamos trocar ideias sobre cibersegurança, nuvem, redes e carreira em tecnologia. Se você tem uma vaga ou estágio na área, adoraria conversar! 💗
+  Vamos trocar ideias sobre cibersegurança, nuvem, redes e carreira em tecnologia. Se você tem uma vaga de trabalho ou estágio na área, adoraria conversar! 💗
 </p>
 
 </td>
