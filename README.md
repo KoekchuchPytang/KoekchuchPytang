@@ -160,7 +160,9 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 <div align="center">
 
 
-[![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Cloud%20Practitioner-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B2E5E)
+![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Cloud%20Practitioner-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B2E5E)
+
+<br>
 
 <a href="https://www.credly.com/badges/92287d5c-c6a0-4137-9c82-16c15edcc5dd/public_url">
     <img width="200" alt="AWS" src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob"
@@ -168,18 +170,17 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
     />
   </a>
 
+<br>
 
+![CCNA1](https://img.shields.io/badge/Cisco-CCNA%20v7:%20Networking%20Essentials-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)
 
-[![CCNA1](https://img.shields.io/badge/Cisco-CCNA%20v7:%20Networking%20Essentials-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+<br>
 
 <a href="https://www.credly.com/badges/ff31a279-0ad2-432e-a18e-875d5388838d/public_url">
     <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
     alt="CCNA: INtroduction to Networks" 
     />
   </a>
-
-
-
 
 <a href="https://www.credly.com/badges/87ede0e0-0beb-470e-9616-c84845fb55a4/public_url">
     <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"
@@ -195,7 +196,9 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 
 
 
-[![Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+![Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)
+
+<br>
 
 <a href="https://www.credly.com/badges/095a0ea8-8b6a-446e-8f5b-4f01178fc825/public_url">
     <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"
