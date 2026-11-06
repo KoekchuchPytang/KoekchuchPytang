@@ -159,16 +159,76 @@ Estudante do **6º período** de Análise e Desenvolvimento de Sistemas no **IFP
 
 <div align="center">
 
-[![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Cloud%20Practitioner-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/92287d5c-c6a0-4137-9c82-16c15edcc5dd/public_url)
 
-[![CCNA1](https://img.shields.io/badge/Cisco-CCNA1%20Introduction%20to%20Networks-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/ff31a279-0ad2-432e-a18e-875d5388838d/public_url)
-[![CCNA2](https://img.shields.io/badge/Cisco-CCNA2%20Switching%20Routing%20and%20Wireless%20Essentials-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/87ede0e0-0beb-470e-9616-c84845fb55a4/public_url)
-[![CCNA3](https://img.shields.io/badge/Cisco-CCNA3%20Enterprise%20Networking%20Security%20and%20Automation-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/cd280ca0-c48b-4446-836d-207c0c9204a1/public_url)
+[![AWS Cloud Quest](https://img.shields.io/badge/AWS-Cloud%20Quest%20Cloud%20Practitioner-FFB6C1?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4B2E5E)
 
-[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/095a0ea8-8b6a-446e-8f5b-4f01178fc825/public_url)
-[![Digital Safety](https://img.shields.io/badge/Cisco-Digital%20Safety%20and%20Security%20Awareness-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/602cea31-cbfd-4b78-bf45-fd2316454623/public_url)
-[![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/61e956d0-ab9e-4f94-87ae-464d032a6a66/public_url)
-[![Learn-A-Thon](https://img.shields.io/badge/Cisco-Networking%20Academy%20Learn--A--Thon%202026-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)](https://www.credly.com/badges/8915cef6-9ce8-46ed-9dd9-f468dd294083/public_url)
+<a href="https://www.credly.com/badges/92287d5c-c6a0-4137-9c82-16c15edcc5dd/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob"
+    alt="Cloud Practitioner" 
+    />
+  </a>
+
+
+
+[![CCNA1](https://img.shields.io/badge/Cisco-CCNA1%20Introduction%20to%20Networks-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/ff31a279-0ad2-432e-a18e-875d5388838d/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
+    alt="CCNA: INtroduction to Networks" 
+    />
+  </a>
+
+
+[![CCNA2](https://img.shields.io/badge/Cisco-CCNA2%20Switching%20Routing%20and%20Wireless%20Essentials-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/87ede0e0-0beb-470e-9616-c84845fb55a4/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"
+    alt="CCNA: Switching Routing and Wireless Essentials" 
+    />
+  </a>
+
+[![CCNA3](https://img.shields.io/badge/Cisco-CCNA3%20Enterprise%20Networking%20Security%20and%20Automation-A8E6CF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/cd280ca0-c48b-4446-836d-207c0c9204a1/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png"
+    alt="CCNA: Enterprise Networking, Security & Automation" 
+    />
+  </a>
+
+
+
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/095a0ea8-8b6a-446e-8f5b-4f01178fc825/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"
+    alt="Introduction to Networks" 
+    />
+  </a>
+
+
+[![Digital Safety](https://img.shields.io/badge/Cisco-Digital%20Safety%20and%20Security%20Awareness-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/602cea31-cbfd-4b78-bf45-fd2316454623/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/92d90000-9c96-4dbd-a37d-8c47bf338bca/blob"
+    alt="Digital Safety and Security Awareness" 
+    />
+  </a>
+
+[![Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/61e956d0-ab9e-4f94-87ae-464d032a6a66/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"
+    alt="Networking Basics" 
+    />
+  </a>
+
+[![Learn-A-Thon](https://img.shields.io/badge/Cisco-Networking%20Academy%20Learn--A--Thon%202026-8E7CC3?style=for-the-badge&logo=cisco&logoColor=white&labelColor=4B2E5E)]()
+
+<a href="https://www.credly.com/badges/8915cef6-9ce8-46ed-9dd9-f468dd294083/public_url">
+    <img width="200" alt="AWS" src="https://images.credly.com/size/340x340/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob"
+    alt="Learn-A-Thon" 
+    />
+  </a>
 
 </div>
 
